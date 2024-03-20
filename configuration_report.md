@@ -30,7 +30,7 @@ Samba: The Core of My File Management
 
 At the heart of my network’s file-sharing capabilities lies Samba, configured within an Arch Linux container. This choice reflects my preference for Arch’s simplicity and familiarity, which has been instrumental in my file server’s reliability and ease of use. 
 
-Versatility in OS Experimentation: Samba’s integration into my NAS setup has been pivotal. It has granted me the freedom to experiment with various operating systems on my devices without the risk of data loss. Throughout my first semester at university, I was able to seamlessly switch between daily driving Arch Linux and exploring other distributions like Mint and Debian1. This flexibility has not only supported my academic pursuits but also fueled my passion for open-source technologies. 
+Versatility in OS Experimentation: Samba’s integration into my NAS setup has been pivotal. It has granted me the freedom to experiment with various operating systems on my devices without the risk of data loss. Throughout my first semester at university, I was able to seamlessly switch between daily driving Arch Linux and exploring other distributions like Mint and Debian. This flexibility has not only supported my academic pursuits but also fueled my passion for open-source technologies. 
 
  
 
